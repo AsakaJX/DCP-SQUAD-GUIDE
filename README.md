@@ -8,6 +8,8 @@
     <h4 align="center">Первый способ (Hiddify)</h4>
 </div>
 
+#
+
 ### 1. Устанавливаем Hiddify:
 #
 #### 1.1. Переходим на сайт [Hiddify](https://hiddify.com)
@@ -47,6 +49,7 @@
 </div>
 
 #
+
 ### 1. Устанавливаем [Furious](https://github.com/LorenEteval/Furious/releases/download/0.4.7/Furious-0.4.7-windows10-amd64.zip)
 #
 #### 1.1. Распаковываем архив в удобное место.
