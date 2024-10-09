@@ -8,6 +8,8 @@
 ### 1. Устанавливаем Hiddify:
 #
 #### 1.1 Переходим на сайт [Hiddify](https://hiddify.com)
+> [!WARNING]
+> Если у вас не работает / вырезан Microsoft Store, тогда скачивайте Hiddify [от сюда](https://github.com/hiddify/hiddify-next/releases/download/v2.5.7/Hiddify-Windows-Portable-x64.zip)
 #### 1.2 Скачиваем и устанавливаем.
 #### 1.3. Запускаем от имени администратора и ставим галочку в параметрах ярлыка:
 ![F2TPelmlex](https://github.com/user-attachments/assets/71a08136-33ca-4c01-a0ad-3426d957f66e)
