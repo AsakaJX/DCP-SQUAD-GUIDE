@@ -21,6 +21,9 @@
 ![Hiddify_TXOzaKxRsG](https://github.com/user-attachments/assets/bdd59e04-4904-4ec2-93bb-19937b6bb34d)
 
 #### 2.2. Меняем режим на VPN:
+> [!CAUTION]
+> Если у вас иногда вылетает / плохая скороость, то попробуйте режим VPN сервис, вместо обычного VPN.
+
 ![Hiddify_qnBir6oRQX](https://github.com/user-attachments/assets/71ac5f28-9ddf-47cd-a991-99341a75f94c)
 
 #### 2.3. Меняем регион на "другой":
