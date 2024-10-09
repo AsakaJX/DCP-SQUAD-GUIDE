@@ -3,6 +3,11 @@
 </div>
 
 #
+
+<div align="center">
+    <h4 align="center">Первый способ (Hiddify)</h4>
+</div>
+
 ### 1. Устанавливаем Hiddify:
 #
 #### 1.1. Переходим на сайт [Hiddify](https://hiddify.com)
@@ -36,7 +41,11 @@
 ![Hiddify_1EqofJcSft](https://github.com/user-attachments/assets/dc7fcccf-ca24-4fed-b6c2-2e364f2861e3)
 
 #
-### У КОГО ПО КАКИМ-ТО ПРИЧИНАМ НЕ РАБОТАЕТ Hiddify:
+
+<div align="center">
+    <h4 align="center">Второй способ (Furious)</h4>
+</div>
+
 #
 ### 1. Устанавливаем [Furious](https://github.com/LorenEteval/Furious/releases/download/0.4.7/Furious-0.4.7-windows10-amd64.zip)
 #
