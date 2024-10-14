@@ -5,11 +5,20 @@
 #
 
 <div align="center">
-    <h4 align="center">Первый способ (Hiddify)</h4>
+    <h4 align="center">Способ Братишкина (на определенные ресурсы + низкий пинг)</h4>
 </div>
 
 #
 
+### [> Способ Братишкина тут <](https://telegra.ph/Kak-proksirovat-trafik-protokolom-VLESS-na-opredelennye-resursy-ne-proksiruya-vsyu-set-10-12?clckid=5eb6abc0)
+
+#
+
+<div align="center">
+    <h4 align="center">Первый способ (Hiddify)</h4>
+</div>
+
+#
 ### 1. Устанавливаем Hiddify:
 #
 #### 1.1. Переходим на сайт [Hiddify](https://hiddify.com)
@@ -68,4 +77,5 @@
 ![Furious_LRO4wH50jt](https://github.com/user-attachments/assets/b607e4ba-623e-4ab3-bb8e-900deb8fb303)
 #
 ### 4. Подключаемся. (ПКМ по иконке в трее -> Соединение)
+#
 ![iFaSyllyPE](https://github.com/user-attachments/assets/bfd72941-b36f-4d2e-8fca-1779a3a68df2)
